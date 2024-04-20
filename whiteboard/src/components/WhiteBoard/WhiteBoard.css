@@ -1,0 +1,14 @@
+button{
+    background-color: red;
+    border: none;
+    border-radius: 2px;
+    margin: 5px;
+    padding: 6px;
+    color: white;
+}
+.abc{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 15px;
+}
